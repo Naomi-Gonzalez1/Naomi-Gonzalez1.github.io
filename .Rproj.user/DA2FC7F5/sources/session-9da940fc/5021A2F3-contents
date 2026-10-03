@@ -1,0 +1,12 @@
+---
+title: "Projects"
+listing:
+  contents: posts
+  sort: "date"
+  type: grid
+  categories: false
+  sort-ui: false
+  fiter-ui: false
+page-layout: full
+title-block-banner: true
+---

@@ -1,0 +1,20 @@
+---
+title: "Naomi Gonzalez"
+image: "Naomi_Headshot.jpg"
+about:  
+  template: jolla
+  links:
+  - icon: github
+    text: GitHub
+    href: https://github.com/Naomi-Gonzalez1
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/naomi-gonzalez-a5048738b/
+  - icon: inboxes
+    text: Contact
+    href: mailto:naomig@uark.edu
+---
+
+Hi, I'm Naomi Gonzalez, a sophomore Industrial Engineering student at the University of Arkansas from De Queen, a small town in Southwest Arkansas. I'm a peer mentor with Engineering One-Stop, where I guide first-year engineering students as they adjust to college, and a lab tech at the asphalt lab in the Civil Engineering department. I chose Arkansas for the opportunities and connections it offers compared with other in-state colleges, and I chose industrial engineering because I love using data, statistics, and analysis to solve real-world problems. I've always looked for the most efficient way to get things done, and IE gives me the tools to do that.
+
+Outside of class, I enjoy cooking, crafting, napping, and watching TV and movies. My favorite dish is quesadilla de flor de calabaza. Fun fact: I speak Otomi, my parents' native language, along with English and Spanish.

@@ -1,0 +1,17 @@
+---
+projects:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Naomi Gonzalez"
+  
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+---

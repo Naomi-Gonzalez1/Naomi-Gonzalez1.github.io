@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Naomi's E-Porfolio"
+  
+  navbar:
+    right:
+      - text: Home
+        icon: house
+        href: index.qmd
+      - text: About
+        icon: person
+        href: about.qmd
+      - text: Resume
+        icon: file-text
+        href: resume.qmd
+      - text: Projects
+        icon: lightbulb
+        href: Projects.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: linkedIn
+        href: https://www.linkedin.com/in/naomi-gonzalez-a5048738b/
+      
+format:
+  html:
+    theme:
+      - lux
+      - brand
+    css: styles.css
+
+editor: visual
+

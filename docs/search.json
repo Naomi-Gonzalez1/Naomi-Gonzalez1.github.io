@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a sophomore Industrial Engineering student at the University of Arkansas, and I’m drawn to the field because I like finding better, more efficient ways to solve problems with data. That mindset shows up in everything I do, from planning my week to the way I approach the work I take on.\nAs a peer mentor with Engineering One-Stop, I support seven first-year engineering students as they adjust to college. Meeting with each of them regularly has strengthened my communication and my ability to help people find the right resources quickly. As a lab tech at the asphalt lab in the Civil Engineering department, I helped run four demos per day for the TREAT program, which taught me to follow test procedures carefully and explain technical work clearly to different audiences. I also serve as Assistant Volunteering Director for the Mexican American Student Association, where I help organize volunteer opportunities and coordinate members.\nBecause I speak Spanish and English, I’m comfortable communicating across different backgrounds, which I see as an asset in team-based engineering work. I’m interested in exploring areas of IE like process improvement and supply chain, and I hope to find internships where I can apply data analysis to real operations."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 27, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nSep 30, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Naomi Gonzalez",
+    "section": "",
+    "text": "Hi, I’m Naomi Gonzalez, a sophomore Industrial Engineering student at the University of Arkansas from De Queen, a small town in Southwest Arkansas. I’m a peer mentor with Engineering One-Stop, where I guide first-year engineering students as they adjust to college, and a lab tech at the asphalt lab in the Civil Engineering department. I chose Arkansas for the opportunities and connections it offers compared with other in-state colleges, and I chose industrial engineering because I love using data, statistics, and analysis to solve real-world problems. I’ve always looked for the most efficient way to get things done, and IE gives me the tools to do that.\nOutside of class, I enjoy cooking, crafting, napping, and watching TV and movies. My favorite dish is quesadilla de flor de calabaza. Fun fact: I speak Otomi, my parents’ native language, along with English and Spanish."
+  }
+]
